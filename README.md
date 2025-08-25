@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on URL Shortner Project<br>I'm currently learning React Js ,SpringBoot<br>Ask me about  Java ,JavaScript<br>Fun fact I'm part time actor
+I'm currently working on URL Shortner Project<br>I'm currently learning React Js ,SpringBoot<br>Ask me about  Java ,JavaScript<br>
 
 
 ## 🌐 Socials:
