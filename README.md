@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 Software Developer specialized in building modern web applications.<br>
 🚀 Interested in cloud computing and container orchestration.<br>
-🌱 Passionate about learning new technologies and solving real-world problems<br>
+🌱 Passionate about learning new technologies and solving real-world problems.<br>
 🔒 Passionate about creating secure, scalable applications for businesses of all sizes
 
 
